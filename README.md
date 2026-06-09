@@ -1,6 +1,6 @@
 
 - Hi, I'm Maryam, a computer science student focused on making a positive impact through computer science, passionate about exploring how technology can drive meaningful change.
--  I’m currently proficient in languages Java, Python, SQL, C++, Scala, HTML, and CSS.
+-  I’m currently proficient in languages Java, JavaScript, Python, SQL, C++, and Scala.
 
 
 <!---
